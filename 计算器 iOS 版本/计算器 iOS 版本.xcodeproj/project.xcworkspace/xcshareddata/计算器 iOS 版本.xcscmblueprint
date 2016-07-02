@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E24DE3AF20AC729442F0A9DA9F0400AF3DE97360",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E24DE3AF20AC729442F0A9DA9F0400AF3DE97360" : 0,
+    "3E38B68DB206879C8F906EC3C70266AA02DFD304" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "21DDE103-2057-4419-BA93-82AEF73BEAFC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E24DE3AF20AC729442F0A9DA9F0400AF3DE97360" : "%E8%AE%A1%E7%AE%97%E5%99%A8%20iOS%20%E7%89%88%E6%9C%AC\/",
+    "3E38B68DB206879C8F906EC3C70266AA02DFD304" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "计算器 iOS 版本",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "计算器 iOS 版本.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yudandan323\/20131105783-323.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3E38B68DB206879C8F906EC3C70266AA02DFD304"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yudandan323\/-iOS-.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E24DE3AF20AC729442F0A9DA9F0400AF3DE97360"
+    }
+  ]
+}
